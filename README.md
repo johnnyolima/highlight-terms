@@ -1,4 +1,4 @@
-# 🖍️ Highlight Terms Script
+# 🖍️ Destacar Múltiplos Termos
 
 Script em JavaScript para destacar múltiplos termos em uma página web, mesmo contendo caracteres especiais, acentos e parênteses.
 
