@@ -15,26 +15,10 @@
 (() => {
   // Lista de termos a destacar
   let termos = [
+    
     "Preventiva de bombas centrífugas horizontais monobloco (conjunto 1) - Bomba de água de reuso", 
-    "Preventiva de bombas centrífugas horizontais monobloco (conjunto 1) - Bomba de efluente", 
-    "Preventiva de bombas centrífugas horizontais monobloco (conjunto 1) - Bomba de equalização", 
-    "Preventiva de bombas centrífugas horizontais monobloco (conjunto 1) - Bomba de lodo", 
-    "Preventiva de Decantador", 
-    "Preventiva de Linha Hidráulica", 
-    "Preventiva de Chave de Transferência (24h)", 
-    "Inspeção de Automação - Quadro de Controle - ETE", 
-    "Preventiva de Quadro da Ete", 
-    "Preventiva de Acionador Manual de Alarme de Incêndio", 
-    "Preventiva de Detector multifunção + voz", 
-    "Preventiva de Módulo de Zona", 
-    "Preventiva de Sirene (Sonoro-Visual)", 
-    "Preventiva de Skid de Ultra Filtação", 
-    "Preventiva de Soprador de Ar", 
-    "Preventiva de Tanque de Aeração", 
-    "Preventiva de Tanque de Lodo", 
-    "Preventiva de Tanque de Reuso", 
-    "Preventiva de Tanque Floculador Mecânico", 
-    "Preventiva de Válvula Manual"
+    "Preventiva de bombas centrífugas horizontais monobloco (conjunto 1) - Bomba de efluente",
+    
   ];
 
   termos.sort((a, b) => b.length - a.length);
